@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+hellooo
+newww
+=======
 anu
+>>>>>>> 1b1260faff8f2a387cc351ae909d9680d2fb2aee
